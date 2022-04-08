@@ -1,6 +1,6 @@
 As part of [Revelation Hackathon by BNB Chain](https://www.bnbchain.world/en/revelation-hackathon) PancakeSwap provides the some bounties for dev community to tackle 💪
 
-$25,000 in prizes!
+$32,500 in prizes!
 
 ## General information
 
@@ -60,7 +60,7 @@ Smart contracts - https://github.com/pancakeswap/pancake-smart-contracts
 
 ## NFT Marketplace Improvements
 
-Prize: $12,500
+Prize: $20,000
 
 Improve existing PancakeSwap NFT Marketplace with some of the following features (not necessary to implement everything, but the more the better):
 
