@@ -79,6 +79,6 @@ Judging criteria:
 - Good documentation
 - Integration with our front-end is a huge plus
 
-Resources:
+Resources:  
 NFT API repository - https://github.com/pancakeswap/pancake-nft-api  
 Smart Contracts - https://github.com/pancakeswap/pancake-smart-contracts
